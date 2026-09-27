@@ -43,7 +43,7 @@ Currently learning: **SciPy • Statistics • Linear Algebra • Machine Learni
 
 ## 🚀 Selected Projects
 
-📊 **[Project 1]** — Data analysis & visualization  
+📊 **[Project 1]** — GeneScope — Genetic Inheritance & Phenotype Simulator
 🤖 **[Project 2]** — Machine learning experiment  
 📈 **[Project 3]** — Quantitative research project  
 
@@ -56,6 +56,11 @@ Currently learning: **SciPy • Statistics • Linear Algebra • Machine Learni
 I document my projects, experiments, mistakes, and discoveries as I continue developing my skills.
 
 ---
+**Skills**
+Prompt Engineering
+Data & Databases
+Project Management
+Entrepreneurship
 
 ## 🎯 Goal
 
