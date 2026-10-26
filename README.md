@@ -26,6 +26,7 @@ I'm currently building my foundations through self-study, projects, experiments,
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 Currently learning: **SciPy • Statistics • Linear Algebra • Machine Learning**
 
@@ -44,7 +45,7 @@ Currently learning: **SciPy • Statistics • Linear Algebra • Machine Learni
 ## 🚀 Selected Projects
 
 📊 **[Project 1]** — GeneScope — Genetic Inheritance & Phenotype Simulator
-🤖 **[Project 2]** — Machine learning experiment  
+🤖 **[Project 2]** — Financial Valuation Model   
 📈 **[Project 3]** — Quantitative research project  
 
 ---
@@ -61,10 +62,10 @@ Prompt Engineering
 Data & Databases
 Project Management
 Entrepreneurship
+Vibe codding 
 
 ## 🎯 Goal
+Blending programming, math, and machine learning to build, simulate, and refine trading models on historical market data. Driven by logic, metrics, and continuous iteration.
 
-To study **Computer Science** at university and explore the intersection of **programming, mathematics, machine learning, and quantitative research**.
-
-📫 **Contact:** [Your Email]  
+📫 **Contact:** [m.shaheernawaz01@gmail.com]  
 🔗 **LinkedIn:** [Your LinkedIn]
